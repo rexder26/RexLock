@@ -1,0 +1,15 @@
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\bin\Release\Locker.exe.manifest
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\bin\Release\Locker.application
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\bin\Release\Locker.exe
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\bin\Release\Locker.pdb
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Release\ResolveAssemblyReference.cache
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Release\Locker.Form1.resources
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Release\Locker.Form2.resources
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Release\Locker.Properties.Resources.resources
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Release\Locker.csproj.GenerateResource.Cache
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Release\Locker.exe.manifest
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Release\Locker.application
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Release\Locker.exe
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Release\Locker.pdb
+F:\Softwares\More Important\rufus-1.4.7\codes\c#\function\Locker\Locker\obj\Release\Locker.exe
+F:\Softwares\More Important\rufus-1.4.7\codes\c#\function\Locker\Locker\obj\Release\Locker.pdb

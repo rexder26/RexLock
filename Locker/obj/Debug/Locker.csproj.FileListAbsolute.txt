@@ -1,0 +1,32 @@
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\bin\Debug\Locker.exe
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\bin\Debug\Locker.pdb
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\obj\Debug\Locker.Form1.resources
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\obj\Debug\Locker.Properties.Resources.resources
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\obj\Debug\Locker.csproj.GenerateResource.Cache
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\obj\Debug\Locker.exe
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\obj\Debug\Locker.pdb
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\obj\Debug\Locker.Form2.resources
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\bin\Debug\Locker.exe.manifest
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\bin\Debug\Locker.application
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\obj\Debug\Locker.exe.manifest
+C:\Users\Super user\AppData\Local\Temporary Projects\Locker\obj\Debug\Locker.application
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\obj\Debug\Locker.exe
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\obj\Debug\Locker.pdb
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\bin\Debug\Locker.exe.manifest
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\bin\Debug\Locker.application
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\bin\Debug\Locker.exe
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\bin\Debug\Locker.pdb
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\obj\Debug\Locker.Form1.resources
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\obj\Debug\Locker.Form2.resources
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\obj\Debug\Locker.Properties.Resources.resources
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\obj\Debug\Locker.csproj.GenerateResource.Cache
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\obj\Debug\Locker.exe.manifest
+C:\Users\Super user\Documents\Visual Studio 2008\Projects\Locker\Locker\obj\Debug\Locker.application
+H:\Locker\Locker\obj\Debug\Locker.exe
+H:\Locker\Locker\obj\Debug\Locker.pdb
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Debug\Locker.exe
+F:\soft\New folder\first\rufus-1.4.7\codes\c#\Locker\Locker\obj\Debug\Locker.pdb
+F:\Softwares\More Important\rufus-1.4.7\codes\c#\function\Locker\Locker\obj\Debug\Locker.exe
+F:\Softwares\More Important\rufus-1.4.7\codes\c#\function\Locker\Locker\obj\Debug\Locker.pdb
